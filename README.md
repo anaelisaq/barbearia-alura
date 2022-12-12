@@ -2,7 +2,6 @@
 
 Curso dividido em módulos para iniciar os estudos em HTML e CSS
 
-**[EM ATUALIZAÇÃO]**
 
 * HTML5 e CSS3 parte 1: crie uma página da Web
 >✅ Aprenda o que é o HTML e o CSS </br>
@@ -19,18 +18,18 @@ Curso dividido em módulos para iniciar os estudos em HTML e CSS
 >✅ Lide com bordas e pseudo-classes CSS </br>
 
 * HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
->⬛ Crie formulários complexos  </br>
->⬛ Trabalhe com campos para celulares </br>
->⬛ Apresente informações em tabelas  </br>
->⬛ Use estilos para formulários, campos e tabelas </br>
->⬛ Entenda a hierarquia no CSS </br>
->⬛ Trabalhe com transformações e transições </br>
+>✅ Crie formulários complexos  </br>
+>✅ Trabalhe com campos para celulares </br>
+>✅ Apresente informações em tabelas  </br>
+>✅ Use estilos para formulários, campos e tabelas </br>
+>✅ Entenda a hierarquia no CSS </br>
+>✅ Trabalhe com transformações e transições </br>
 
 * HTML5 e CSS3 parte 4: avançando no CSS
->⬛ Importe conteúdo externo na sua página HTML, como fontes, vídeos e mapas </br>
->⬛ Conheça pseudo-classes e pseudo-elementos </br>
->⬛ Use seletores de CSS avançados </br>
->⬛ Saiba como lidar com opacidade e sombra </br>
->⬛ Entenda sobre o Viewport e design responsivo </br>
+>✅ Importe conteúdo externo na sua página HTML, como fontes, vídeos e mapas </br>
+>✅ Conheça pseudo-classes e pseudo-elementos </br>
+>✅ Use seletores de CSS avançados </br>
+>✅ Saiba como lidar com opacidade e sombra </br>
+>✅ Entenda sobre o Viewport e design responsivo </br>
 
 * Curso do instrutor Pedro Marins
